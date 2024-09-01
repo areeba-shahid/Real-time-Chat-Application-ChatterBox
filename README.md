@@ -1,4 +1,21 @@
-Extract from zip file . 
+## Technologies Used
+
+- **Frontend:**
+  - React.js
+  - Chakra UI
+
+- **Backend:**
+  - Firebase Authentication
+  - Firestore
+
+- **Other Tools:**
+  - Redux Toolkit
+  - Socket.IO
+  - Axios
+ 
+
+
+  Extract from zip file . 
 open terminal and run   ' npm install ' .
 then npm start .
 navigate to /src/backend  then run "node server.js " .
