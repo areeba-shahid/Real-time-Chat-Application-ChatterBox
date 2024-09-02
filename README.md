@@ -2,7 +2,7 @@
 
 - **Frontend:**
   - React.js
-  - Chakra UI
+  - redux toolkit 
 
 - **Backend:**
   - Firebase Authentication
@@ -10,7 +10,7 @@
 
 - **Other Tools:**
   - Redux Toolkit
-  - Socket.IO
+
   - Axios
  
 
